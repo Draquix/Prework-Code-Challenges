@@ -1,0 +1,13 @@
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\bin\Debug\netcoreapp3.1\Max Array Result.exe
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\bin\Debug\netcoreapp3.1\Max Array Result.deps.json
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\bin\Debug\netcoreapp3.1\Max Array Result.runtimeconfig.json
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\bin\Debug\netcoreapp3.1\Max Array Result.runtimeconfig.dev.json
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\bin\Debug\netcoreapp3.1\Max Array Result.dll
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\bin\Debug\netcoreapp3.1\Max Array Result.pdb
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\obj\Debug\netcoreapp3.1\Max Array Result.csprojAssemblyReference.cache
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\obj\Debug\netcoreapp3.1\Max Array Result.AssemblyInfoInputs.cache
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\obj\Debug\netcoreapp3.1\Max Array Result.AssemblyInfo.cs
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\obj\Debug\netcoreapp3.1\Max Array Result.csproj.CoreCompileInputs.cache
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\obj\Debug\netcoreapp3.1\Max Array Result.dll
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\obj\Debug\netcoreapp3.1\Max Array Result.pdb
+C:\Users\draqu\Prework-Code-Challenges\Max Array Result\obj\Debug\netcoreapp3.1\Max Array Result.genruntimeconfig.cache

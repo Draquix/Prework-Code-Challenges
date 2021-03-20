@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\draqu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\draqu\\.nuget\\packages"
+    ]
+  }
+}
